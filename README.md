@@ -1,1 +1,1 @@
-# A text based game version of Halo: Combat Evolved
+## A slightly altered text-based game version of Halo: Combat Evolved
